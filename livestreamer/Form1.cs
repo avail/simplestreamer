@@ -43,7 +43,7 @@ namespace livestreamer
 
             MessageBox.Show(box);*/
 
-            string args = string.Format("twitch.tv/{0} {1} --player {2}", twitch.Text, comboBox1.Text, player.Text);
+            string args = string.Format("twitch.tv/{0} {1} --player \"{2}\"", twitch.Text, comboBox1.Text, player.Text);
 
             // Process.Start("cmd.exe", cmd);
             
