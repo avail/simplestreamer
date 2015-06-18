@@ -1,3 +1,5 @@
+[Download](https://github.com/Shavitush/simplestreamer/releases)
+
 # simplestreamer
 osu! streams can be fun
 
