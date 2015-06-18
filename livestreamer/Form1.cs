@@ -7,6 +7,8 @@ namespace livestreamer
 {
     public partial class Form1 : Form
     {
+        public bool bDebug = false;
+
         public Form1()
         {
             InitializeComponent();
@@ -48,7 +50,8 @@ namespace livestreamer
             // Process.Start("cmd.exe", cmd);
             
             ProcessStartInfo startInfo = new ProcessStartInfo();
-            startInfo.WindowStyle = ProcessWindowStyle.Normal;
+
+            startInfo.WindowStyle = bDebug? ProcessWindowStyle.Normal:ProcessWindowStyle.Hidden;
             startInfo.FileName = "livestreamer.exe";
             startInfo.Arguments = args;
             /*startInfo.Verb = "runas";
@@ -62,6 +65,11 @@ namespace livestreamer
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             comboBox1.Text = comboBox1.SelectedText;
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            bDebug = checkBox1.Checked;
         }
     }
 }
