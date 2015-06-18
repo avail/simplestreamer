@@ -12,3 +12,11 @@ Requirements:
 * [Livestreamer](http://docs.livestreamer.io/install.html#windows-binaries) installed
 
 The program also lets you choose your favorite video player, the default is [mpv](http://mpv.io/) which is my favorite player. You can browse to your favorite one.
+
+
+# debug
+It also has debug mode, use it to troubleshoot errors. without even needing my help for it
+
+![Debug mode](http://i.imgur.com/M66vjF3.gif)
+
+Use it to troubleshoot errors without needing my help!
