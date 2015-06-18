@@ -1,0 +1,11 @@
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Release\System.Net.Http.dll
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Release\System.Net.Http.xml
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Release\livestreamer.Form1.resources
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Release\simplestreamer.csproj.GenerateResource.Cache
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Release\simplestreamer.exe.config
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Release\simplestreamer.exe
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Release\simplestreamer.pdb
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Release\simplestreamer.Properties.Resources.resources
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Release\simplestreamer.exe
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Release\simplestreamer.pdb
+C:\Users\Cookiezi\Documents\Visual Studio 2015\Projects\livestreamer\livestreamer\obj\Release\simplestreamer.csprojResolveAssemblyReference.cache

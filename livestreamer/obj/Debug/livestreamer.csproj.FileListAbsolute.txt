@@ -1,0 +1,9 @@
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Debug\livestreamer.exe.config
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Debug\livestreamer.exe
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Debug\livestreamer.pdb
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Debug\livestreamer.csprojResolveAssemblyReference.cache
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Debug\livestreamer.Form1.resources
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Debug\livestreamer.Properties.Resources.resources
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Debug\livestreamer.csproj.GenerateResource.Cache
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Debug\livestreamer.exe
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Debug\livestreamer.pdb

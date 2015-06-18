@@ -1,0 +1,10 @@
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Release\livestreamer.exe.config
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Release\livestreamer.exe
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Release\livestreamer.pdb
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Release\livestreamer.Form1.resources
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Release\livestreamer.Properties.Resources.resources
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Release\livestreamer.csproj.GenerateResource.Cache
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Release\livestreamer.exe
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\obj\Release\livestreamer.pdb
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Release\System.Net.Http.dll
+c:\users\cookiezi\documents\visual studio 2015\Projects\livestreamer\livestreamer\bin\Release\System.Net.Http.xml
