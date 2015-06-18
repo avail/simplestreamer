@@ -22,3 +22,7 @@ It also has debug mode, use it to troubleshoot errors. without even needing my h
 ![Debug mode](http://i.imgur.com/M66vjF3.gif)
 
 Use it to troubleshoot errors without needing my help!
+
+# todo
+- [x] Add debug mode
+- [ ] Save last player path and streamer name to a file, and load it every time the program starts.
